@@ -1,0 +1,21 @@
+Hey Jeff,
+
+This week assignment will be simple, and its divided in two parts.
+
+1. First, i want to exercise what we have seen. I will like you to create
+a window program (like the one at the example) to play tik-tak toe. I know
+you can design the window, but can you build the logic? I will bring 
+an implementation of this on our next class, hope you can code and show me
+your work.
+
+
+2. This one is the challenge. Can you add sound to the example that i gave you? 
+I mean, whenever someone click's the "check" button, you could reproduce
+the sound of a duck? We will discuss this one on our next class, let me 
+know if you cant.
+
+
+Take a look at the example (see what happens when you press check and 
+dont provide a word) and let me know of your questions. Open github issues 
+so we can communicate there. Let me know if its too hard (its not easy,
+but i want you to have fun). 
